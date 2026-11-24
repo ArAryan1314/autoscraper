@@ -1,3 +1,11 @@
+<!-- fork-notice:start -->
+
+> **About this fork:** maintained copy of [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper), used for learning and integration. All credit for the original work goes to its authors. License: MIT (see `LICENSE`).
+>
+> [![Standard CI](https://github.com/ArAryan1314/autoscraper/actions/workflows/standard-ci.yml/badge.svg)](https://github.com/ArAryan1314/autoscraper/actions/workflows/standard-ci.yml)
+
+<!-- fork-notice:end -->
+
 # AutoScraper: A Smart, Automatic, Fast and Lightweight Web Scraper for Python
 
 ![img](https://user-images.githubusercontent.com/17881612/91968083-5ee92080-ed29-11ea-82ec-d99ec85367a5.png)
